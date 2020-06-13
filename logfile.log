@@ -1,0 +1,310 @@
+2019-12-17 16:28:12,983 INFO  [Utilities] beforeMethod()_Start 
+2019-12-17 16:28:20,533 INFO  [Utilities] beforeMethod()_END 
+2019-12-17 16:28:22,053 INFO  [Utilities] createnew() 
+2019-12-17 16:28:23,478 INFO  [Utilities] afterMethod()_END 
+2019-12-17 16:28:47,752 INFO  [Utilities] beforeMethod()_Start 
+2019-12-17 16:28:55,488 INFO  [Utilities] beforeMethod()_END 
+2019-12-17 16:28:56,838 INFO  [Utilities] createnew() 
+2019-12-17 16:28:58,136 INFO  [Utilities] afterMethod()_END 
+2019-12-17 16:29:14,564 INFO  [Utilities] beforeMethod()_Start 
+2019-12-17 16:29:21,788 INFO  [Utilities] beforeMethod()_END 
+2019-12-17 16:29:24,125 INFO  [Utilities] createnew() 
+2019-12-17 16:58:17,698 INFO  [Utilities] beforeMethod()_Start 
+2019-12-17 16:58:25,217 INFO  [Utilities] beforeMethod()_END 
+2019-12-17 16:58:28,283 INFO  [Utilities] createnew() 
+2019-12-17 16:58:32,579 INFO  [Utilities] afterMethod()_END 
+2019-12-17 17:04:10,614 INFO  [Utilities] beforeMethod()_Start 
+2019-12-17 17:04:18,943 INFO  [Utilities] beforeMethod()_END 
+2019-12-17 17:04:22,190 INFO  [Utilities] createnew() 
+2019-12-17 17:04:26,888 INFO  [Utilities] afterMethod()_END 
+2019-12-17 17:05:41,967 INFO  [Utilities] beforeMethod()_Start 
+2019-12-17 17:05:49,698 INFO  [Utilities] beforeMethod()_END 
+2019-12-17 17:05:52,187 INFO  [Utilities] createnew() 
+2019-12-17 17:05:55,661 INFO  [Utilities] afterMethod()_END 
+2019-12-18 08:52:46,503 INFO  [Utilities] beforeMethod()_Start 
+2019-12-18 08:55:37,380 INFO  [Utilities] beforeMethod()_Start 
+2019-12-18 08:55:45,285 INFO  [Utilities] beforeMethod()_END 
+2019-12-18 08:55:50,512 INFO  [Utilities] createnew() 
+2019-12-18 10:03:23,644 INFO  [Utilities] Launch Browser and open Administrator page 
+2019-12-18 10:03:24,098 INFO  [Utilities] Login 
+2019-12-18 10:03:26,069 INFO  [Utilities] Step1: Goto weblinks page 
+2019-12-18 10:03:27,561 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:03:28,807 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:03:30,061 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:03:31,051 INFO  [Utilities] VP: check creation 
+2019-12-18 10:03:31,079 INFO  [Utilities] Close Browser 
+2019-12-18 10:04:26,294 INFO  [Utilities] Launch Browser and open Administrator page 
+2019-12-18 10:04:26,759 INFO  [Utilities] Login 
+2019-12-18 10:04:27,929 INFO  [Utilities] Step1: Goto weblinks page 
+2019-12-18 10:04:28,872 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:04:31,281 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:04:32,662 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:04:33,459 INFO  [Utilities] VP: check creation 
+2019-12-18 10:04:34,502 INFO  [Utilities] Step 5: Logout 
+2019-12-18 10:04:35,128 INFO  [Utilities] Close Browser 
+2019-12-18 10:05:10,382 INFO  [Utilities] Launch Browser and open Administrator page 
+2019-12-18 10:05:10,812 INFO  [Utilities] Login 
+2019-12-18 10:05:12,264 INFO  [Utilities] Step1: Goto weblinks page 
+2019-12-18 10:05:13,188 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:05:14,537 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:05:15,918 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:05:16,878 INFO  [Utilities] VP: check creation 
+2019-12-18 10:05:17,873 INFO  [Utilities] Close Browser 
+2019-12-18 10:10:51,137 INFO  [Utilities] Launch Browser and open Administrator page 
+2019-12-18 10:10:51,626 INFO  [Utilities] Login 
+2019-12-18 10:10:53,247 INFO  [Utilities] Step1: Goto weblinks page 
+2019-12-18 10:10:54,157 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:10:55,869 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:10:57,216 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:10:58,015 INFO  [Utilities] Close Browser 
+2019-12-18 10:11:59,214 INFO  [Utilities] Launch Browser and open Administrator page 
+2019-12-18 10:11:59,594 INFO  [Utilities] Login 
+2019-12-18 10:12:00,892 INFO  [Utilities] Step1: Goto weblinks page 
+2019-12-18 10:12:01,839 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:12:03,085 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:12:04,504 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:12:05,236 INFO  [Utilities] Close Browser 
+2019-12-18 10:12:11,176 INFO  [Utilities] Launch Browser and open Administrator page 
+2019-12-18 10:12:11,561 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:12:11,593 INFO  [Utilities] Close Browser 
+2019-12-18 10:12:17,334 INFO  [Utilities] Launch Browser and open Administrator page 
+2019-12-18 10:12:17,679 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:12:17,697 INFO  [Utilities] Close Browser 
+2019-12-18 10:14:04,455 INFO  [Utilities] Launch Browser and open Administrator page 
+2019-12-18 10:14:04,855 INFO  [Utilities] Login 
+2019-12-18 10:14:06,270 INFO  [Utilities] Step1: Goto weblinks page 
+2019-12-18 10:14:07,104 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:14:08,749 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:14:10,135 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:14:10,892 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:14:11,697 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:14:12,920 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:14:13,778 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:14:13,804 INFO  [Utilities] Close Browser 
+2019-12-18 10:16:03,331 INFO  [Utilities] Launch Browser and open Administrator page 
+2019-12-18 10:16:03,721 INFO  [Utilities] Login 
+2019-12-18 10:16:05,121 INFO  [Utilities] Step1: Goto weblinks page 
+2019-12-18 10:16:06,136 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:16:07,355 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:16:08,736 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:16:09,519 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:16:10,440 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:16:11,678 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:16:12,534 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:16:12,560 INFO  [Utilities] Close Browser 
+2019-12-18 10:17:16,637 INFO  [Utilities] Launch Browser and open Administrator page 
+2019-12-18 10:17:17,221 INFO  [Utilities] Login 
+2019-12-18 10:17:18,599 INFO  [Utilities] Step1: Goto weblinks page 
+2019-12-18 10:17:19,594 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:17:23,681 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:17:25,106 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:17:25,864 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:17:26,634 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:17:27,897 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:17:28,586 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:17:29,412 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:17:30,647 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:17:31,390 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:17:32,171 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:17:33,316 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:17:34,071 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:17:34,830 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:17:36,142 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:17:36,826 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:17:37,611 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:17:38,802 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:17:39,537 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:17:40,306 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:17:41,511 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:17:42,256 INFO  [Utilities] Close Browser 
+2019-12-18 10:20:32,326 INFO  [Utilities] Launch Browser and open Administrator page 
+2019-12-18 10:20:32,871 INFO  [Utilities] Login 
+2019-12-18 10:20:34,279 INFO  [Utilities] Step1: Goto weblinks page 
+2019-12-18 10:20:35,093 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:20:36,368 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:20:37,729 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:20:38,496 INFO  [Utilities] VP: check creation 
+2019-12-18 10:20:39,495 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:20:40,265 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:20:41,496 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:20:42,162 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:20:42,904 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:20:44,087 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:20:44,749 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:20:45,467 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:20:46,764 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:20:47,519 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:20:48,243 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:20:49,506 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:20:50,162 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:20:50,885 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:20:52,183 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:20:52,833 INFO  [Utilities] Step2: Goto create new 
+2019-12-18 10:20:53,608 INFO  [Utilities] Step3: create new weblinks 
+2019-12-18 10:20:54,859 INFO  [Utilities] Step4: save and close 
+2019-12-18 10:20:55,491 INFO  [Utilities] Step 5: Logout 
+2019-12-18 10:20:56,171 INFO  [Utilities] Close Browser 
+2019-12-18 10:36:26,330 INFO  [ClassName] Launch Browser and open Administrator page 
+2019-12-18 10:36:26,858 INFO  [ClassName] Login 
+2019-12-18 10:36:28,096 INFO  [ClassName] Step1: Goto weblinks page 
+2019-12-18 10:36:29,221 INFO  [ClassName] Step2: Goto create new 
+2019-12-18 10:36:31,229 INFO  [ClassName] Step3: create new weblinks 
+2019-12-18 10:36:32,604 INFO  [ClassName] Step4: save and close 
+2019-12-18 10:36:33,459 INFO  [ClassName] VP: check creation 
+2019-12-18 10:36:34,424 INFO  [ClassName] Step 5: Logout 
+2019-12-18 10:36:35,054 INFO  [ClassName] Close Browser 
+2019-12-18 10:38:57,936 INFO  [Log4j] Launch Browser and open Administrator page 
+2019-12-18 10:38:58,499 INFO  [Log4j] Login 
+2019-12-18 10:38:59,615 INFO  [Log4j] Step1: Goto weblinks page 
+2019-12-18 10:39:00,691 INFO  [Log4j] Step2: Goto create new 
+2019-12-18 10:39:01,899 INFO  [Log4j] Step3: create new weblinks 
+2019-12-18 10:39:03,326 INFO  [Log4j] Step4: save and close 
+2019-12-18 10:39:04,212 INFO  [Log4j] VP: check creation 
+2019-12-18 10:39:05,261 INFO  [Log4j] Step 5: Logout 
+2019-12-18 10:39:05,919 INFO  [Log4j] Close Browser 
+2019-12-18 10:41:12,531 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 10:41:13,118 INFO  [Debug] Login 
+2019-12-18 10:41:14,401 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 10:41:15,405 INFO  [Debug] Step2: Goto create new 
+2019-12-18 10:41:19,545 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 10:41:21,042 INFO  [Debug] Step4: save and close 
+2019-12-18 10:41:21,732 INFO  [Debug] VP: check creation 
+2019-12-18 10:41:22,854 INFO  [Debug] Step 5: Logout 
+2019-12-18 10:41:23,458 INFO  [Debug] Close Browser 
+2019-12-18 11:16:03,949 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 11:16:05,133 INFO  [Debug] Login 
+2019-12-18 11:16:07,347 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 11:16:08,524 INFO  [Debug] Step2: Goto create new 
+2019-12-18 11:16:09,822 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 11:16:11,052 INFO  [Debug] Step4: save and close 
+2019-12-18 11:16:11,980 INFO  [Debug] VP: check creation 
+2019-12-18 11:16:12,759 INFO  [Debug] Step 5: Logout 
+2019-12-18 11:16:14,107 INFO  [Debug] Close Browser 
+2019-12-18 11:36:30,086 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 11:36:30,801 INFO  [Debug] Login 
+2019-12-18 11:36:33,181 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 11:36:34,448 INFO  [Debug] Step2: Goto create new 
+2019-12-18 11:36:35,690 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 11:36:36,876 INFO  [Debug] Step4: save and close 
+2019-12-18 11:36:37,734 INFO  [Debug] VP: check creation 
+2019-12-18 11:36:38,328 INFO  [Debug] Step 5: Logout 
+2019-12-18 11:36:39,221 INFO  [Debug] Close Browser 
+2019-12-18 13:47:34,489 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 13:47:35,084 INFO  [Debug] Login 
+2019-12-18 13:47:37,474 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 13:47:38,535 INFO  [Debug] Step2: Goto create new 
+2019-12-18 13:47:39,615 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 13:47:40,739 INFO  [Debug] Step4: save and close 
+2019-12-18 13:47:41,820 INFO  [Debug] VP: check creation 
+2019-12-18 13:47:42,486 INFO  [Debug] Step 5: Logout 
+2019-12-18 13:47:43,363 INFO  [Debug] Close Browser 
+2019-12-18 13:48:25,838 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 13:48:26,324 INFO  [Debug] Login 
+2019-12-18 13:48:28,341 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 13:48:29,347 INFO  [Debug] Step2: Goto create new 
+2019-12-18 13:48:30,777 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 13:48:32,274 INFO  [Debug] Step4: save and close 
+2019-12-18 13:48:32,944 INFO  [Debug] VP: check creation 
+2019-12-18 13:48:34,021 INFO  [Debug] Step 5: Logout 
+2019-12-18 13:48:34,732 INFO  [Debug] Close Browser 
+2019-12-18 13:53:52,260 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:11:29,494 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:17:38,928 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:17:53,721 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:18:37,735 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:27:56,684 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:33:43,364 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:34:50,002 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:34:51,448 INFO  [Debug] Login 
+2019-12-18 14:34:53,289 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 14:34:54,255 INFO  [Debug] Step2: Goto create new 
+2019-12-18 14:34:55,560 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 14:34:56,689 INFO  [Debug] Step4: save and close 
+2019-12-18 14:34:57,589 INFO  [Debug] VP: check creation 
+2019-12-18 14:34:58,356 INFO  [Debug] Step 5: Logout 
+2019-12-18 14:34:59,307 INFO  [Debug] Close Browser 
+2019-12-18 14:35:06,602 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:35:07,159 INFO  [Debug] Login 
+2019-12-18 14:35:09,518 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 14:35:10,792 INFO  [Debug] Step2: Goto create new 
+2019-12-18 14:35:11,915 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 14:35:12,946 INFO  [Debug] Step4: save and close 
+2019-12-18 14:35:13,830 INFO  [Debug] VP: check creation 
+2019-12-18 14:35:14,459 INFO  [Debug] Step 5: Logout 
+2019-12-18 14:35:15,453 INFO  [Debug] Close Browser 
+2019-12-18 14:36:25,866 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:36:26,488 INFO  [Debug] Login 
+2019-12-18 14:36:28,316 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 14:36:29,584 INFO  [Debug] Step2: Goto create new 
+2019-12-18 14:36:30,876 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 14:36:31,988 INFO  [Debug] Step4: save and close 
+2019-12-18 14:36:32,708 INFO  [Debug] VP: check creation 
+2019-12-18 14:36:33,377 INFO  [Debug] Step 5: Logout 
+2019-12-18 14:36:34,318 INFO  [Debug] Close Browser 
+2019-12-18 14:38:02,247 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:38:02,836 INFO  [Debug] Login 
+2019-12-18 14:38:04,068 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 14:38:05,437 INFO  [Debug] Step2: Goto create new 
+2019-12-18 14:38:07,379 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 14:38:08,744 INFO  [Debug] Step4: save and close 
+2019-12-18 14:38:09,771 INFO  [Debug] VP: check creation 
+2019-12-18 14:38:10,825 INFO  [Debug] Step 5: Logout 
+2019-12-18 14:38:11,398 INFO  [Debug] Close Browser 
+2019-12-18 14:41:57,434 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:41:57,952 INFO  [Debug] Login 
+2019-12-18 14:41:59,400 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 14:42:00,462 INFO  [Debug] Step2: Goto create new 
+2019-12-18 14:42:01,949 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 14:42:03,343 INFO  [Debug] Step4: save and close 
+2019-12-18 14:42:04,615 INFO  [Debug] VP: check creation 
+2019-12-18 14:42:05,752 INFO  [Debug] Step 5: Logout 
+2019-12-18 14:42:06,309 INFO  [Debug] Close Browser 
+2019-12-18 14:42:12,107 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:42:12,510 INFO  [Debug] Login 
+2019-12-18 14:42:14,172 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 14:42:15,036 INFO  [Debug] Step2: Goto create new 
+2019-12-18 14:42:18,878 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 14:42:20,165 INFO  [Debug] Step4: save and close 
+2019-12-18 14:42:20,959 INFO  [Debug] VP: check creation 
+2019-12-18 14:42:22,045 INFO  [Debug] Step 5: Logout 
+2019-12-18 14:42:22,666 INFO  [Debug] Close Browser 
+2019-12-18 14:44:33,135 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:44:33,733 INFO  [Debug] Login 
+2019-12-18 14:44:34,990 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 14:44:36,047 INFO  [Debug] Step2: Goto create new 
+2019-12-18 14:44:37,410 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 14:44:38,997 INFO  [Debug] Step4: save and close 
+2019-12-18 14:44:39,754 INFO  [Debug] VP: check creation 
+2019-12-18 14:44:40,715 INFO  [Debug] Step 5: Logout 
+2019-12-18 14:44:41,319 INFO  [Debug] Close Browser 
+2019-12-18 14:44:47,122 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 14:44:47,484 INFO  [Debug] Login 
+2019-12-18 14:44:48,763 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 14:44:50,828 INFO  [Debug] Step2: Goto create new 
+2019-12-18 14:44:52,568 INFO  [Debug] Step3: create new weblinks 
+2019-12-18 14:44:53,918 INFO  [Debug] Step4: save and close 
+2019-12-18 14:44:54,638 INFO  [Debug] VP: check creation 
+2019-12-18 14:44:55,688 INFO  [Debug] Step 5: Logout 
+2019-12-18 14:44:56,271 INFO  [Debug] Close Browser 
+2019-12-18 15:51:58,860 INFO  [Debug] Login 
+2019-12-18 15:57:26,550 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 15:57:27,378 INFO  [Debug] Login 
+2019-12-18 15:57:28,000 INFO  [Debug] Step1: Goto weblinks page 
+2019-12-18 15:57:42,190 INFO  [Debug] Close Browser 
+2019-12-18 16:10:14,143 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 16:11:11,646 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 16:11:26,209 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 16:11:57,645 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 16:12:31,295 INFO  [Debug] Launch Browser and open Administrator page 
+2019-12-18 16:14:43,994 INFO  [Debug] Launch Browser and open Administrator page 
+2020-01-04 15:36:57,337 INFO  [Debug] Step 1. Login 
+2020-06-12 20:05:44,752 INFO  [Debug] Step 1. Login 
+2020-06-12 20:06:05,864 INFO  [Debug] Step 1. Login 
+2020-06-12 23:30:02,416 INFO  [Debug] Step 1. Login 
+2020-06-12 23:31:13,343 INFO  [Debug] Step 1. Login 
+2020-06-12 23:36:54,815 INFO  [Debug] Step 1. Login 
+2020-06-12 23:37:02,075 INFO  [Debug] Close Browser 
+2020-06-12 23:37:52,165 INFO  [Debug] Step 1. Login 
+2020-06-12 23:38:04,234 INFO  [Debug] Close Browser 
+2020-06-12 23:46:38,210 INFO  [Debug] Step 1. Login 
+2020-06-12 23:46:44,192 INFO  [Debug] Close Browser 

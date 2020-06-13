@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<test name="Test-Chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="testNG.TC_JOOMLA_WEBLINKS_002" />
+			<class name="testNG.TC_JOOMLA_WEBLINKS_003" />
+			<class name="testNG.TC_JOOMLA_WEBLINKS_004" />
+			<class name="testNG.TC_JOOMLA_WEBLINKS_005" />
+			<class name="testNG.TC_JOOMLA_WEBLINKS_006" />
+		</classes>
+	</test>
+	
+	<test name="Test-Firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="testNG.TC_JOOMLA_WEBLINKS_002" />
+			<class name="testNG.TC_JOOMLA_WEBLINKS_003" />
+			<class name="testNG.TC_JOOMLA_WEBLINKS_004" />
+			<class name="testNG.TC_JOOMLA_WEBLINKS_005" />
+			<class name="testNG.TC_JOOMLA_WEBLINKS_006" />
+		</classes>
+	</test>
+	<test name="Test-IE">
+		<parameter name="browser" value="ie" />
+		<classes>
+			<class name="testNG.TC_JOOMLA_WEBLINKS_002" />
+			<class name="testNG.TC_JOOMLA_WEBLINKS_003" />
+			<class name="testNG.TC_JOOMLA_WEBLINKS_004" />
+			<class name="testNG.TC_JOOMLA_WEBLINKS_005" />
+			<class name="testNG.TC_JOOMLA_WEBLINKS_006" />
+		</classes>
+	</test>
+	
+	
+</suite> 
