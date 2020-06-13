@@ -1,2 +1,1 @@
-# Joomla_NamAnh
- Weblinks and Banners Clients
+Nghiên cứu automation với Selenium, dùng facebook làm ví dụ, code bằng java
