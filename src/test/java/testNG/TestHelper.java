@@ -17,11 +17,11 @@ public class TestHelper {
 //	@Parameters("browser")
 	public void beforeClass() {
 //		if (browser.equals("firefox")) {
-			BrowserHelper.openFirefoxBrowser(Constants.URL_ADMINISTRATOR);
+//			BrowserHelper.openFirefoxBrowser(Constants.URL_ADMINISTRATOR);
 //		}
 
 //		else if (browser.equals("chrome")) {
-//			BrowserHelper.openChromeBrowser(Constants.URL_ADMINISTRATOR);
+			BrowserHelper.openChromeBrowser(Constants.URL_ADMINISTRATOR);
 //		}
 
 //		else if (browser.equals("ie")) {
@@ -32,6 +32,6 @@ public class TestHelper {
 	@AfterClass
 	public void afterClass(){
 		Log4j.info("Close Browser");
-		Constants.DRIVER.quit();
+//		Constants.DRIVER.quit();
 	}
 }
