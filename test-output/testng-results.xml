@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9147" started-at="2020-06-13T20:52:32 ICT" finished-at="2020-06-13T20:52:41 ICT">
+  <suite name="Default suite" duration-ms="22348" started-at="2020-06-13T21:35:29 ICT" finished-at="2020-06-13T21:35:51 ICT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9147" started-at="2020-06-13T20:52:32 ICT" finished-at="2020-06-13T20:52:41 ICT">
+    <test name="Default test" duration-ms="22348" started-at="2020-06-13T21:35:29 ICT" finished-at="2020-06-13T21:35:51 ICT">
       <class name="testNG.FB_Login">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testNG.FB_Login@4bbfb90a]" name="beforeClass" is-config="true" duration-ms="5223" started-at="2020-06-13T20:52:32 ICT" finished-at="2020-06-13T20:52:37 ICT">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testNG.FB_Login@4bbfb90a]" name="beforeClass" is-config="true" duration-ms="5033" started-at="2020-06-13T21:35:29 ICT" finished-at="2020-06-13T21:35:34 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNG.FB_Login@4bbfb90a]" name="beforeMethod" is-config="true" duration-ms="3780" started-at="2020-06-13T20:52:37 ICT" finished-at="2020-06-13T20:52:41 ICT">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNG.FB_Login@4bbfb90a]" name="beforeMethod" is-config="true" duration-ms="16536" started-at="2020-06-13T21:35:34 ICT" finished-at="2020-06-13T21:35:51 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="f()[pri:0, instance:testNG.FB_Login@4bbfb90a]" name="f" duration-ms="77" started-at="2020-06-13T20:52:41 ICT" description="FB Login" finished-at="2020-06-13T20:52:41 ICT">
+        <test-method status="PASS" signature="f()[pri:0, instance:testNG.FB_Login@4bbfb90a]" name="f" duration-ms="71" started-at="2020-06-13T21:35:51 ICT" description="FB Login" finished-at="2020-06-13T21:35:51 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:testNG.FB_Login@4bbfb90a]" name="AfterMethod" is-config="true" duration-ms="3" started-at="2020-06-13T20:52:41 ICT" finished-at="2020-06-13T20:52:41 ICT">
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:testNG.FB_Login@4bbfb90a]" name="AfterMethod" is-config="true" duration-ms="651" started-at="2020-06-13T21:35:51 ICT" finished-at="2020-06-13T21:35:51 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethod -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:testNG.FB_Login@4bbfb90a]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-06-13T20:52:41 ICT" finished-at="2020-06-13T20:52:41 ICT">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testNG.FB_Login@4bbfb90a]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-06-13T21:35:51 ICT" finished-at="2020-06-13T21:35:51 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

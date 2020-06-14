@@ -20,7 +20,7 @@ public class FB_Login extends TestHelper {
 		FB_LoginPage.login(Constants.LOGIN_USERNAME, Constants.LOGIN_PASSWORD);
 		Constants.DRIVER.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		FB_Homepage_RememberPass.Cancel();
-//		FB_PostStatus.Post();
+		FB_PostStatus.Post();
 	}
 
 	@Test(description = "FB Login")
@@ -29,6 +29,6 @@ public class FB_Login extends TestHelper {
 
 	@AfterMethod
 	public void AfterMethod(){
-//		Constants.DRIVER.quit();
+		Constants.DRIVER.quit();
 	}
 }
